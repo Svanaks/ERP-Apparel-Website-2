@@ -1,0 +1,23 @@
+<div ng-controller="ArticleCtrl as controller">
+    <div class="row">
+        <div class="col s12 m6 l4" ng-repeat="article in controller.articles">
+          <div class="card">
+            <div class="card-image">
+              <img ng-src={{article.link}} alt="Description">
+              <span class="card-title">{{article.name}}</span>
+            </div>
+            <div class="card-content">
+              <p>Colors available: 
+                <span ng-repeat= "color in article.colors" class="new badge {{color.name}}" data-badge-caption={{color.name}}></span>
+              </p>
+              <p>Matériaux disponibles: 
+                <span ng-repeat= "material in article.materials" class="badge" data-badge-caption={{material.name}}></span>
+              </p>
+              <p>Taille: 
+                <span class="badge" data-badge-caption={{article.size}}></span>
+              </p>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>

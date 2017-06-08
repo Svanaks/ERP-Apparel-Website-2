@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"border",
+				"border-top-width"
+			],
+			[
+				"bor",
+				"border-top-width"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"r",
+				"no-repeat"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"Font",
+				"font-size"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"botto",
+				"margin-bottom"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"Te",
+				"text-decoration"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"Margin",
+				"margin-bottom"
+			],
+			[
+				"Fon",
+				"font-size"
+			],
+			[
+				"Mar",
+				"margin-bottom"
+			],
+			[
+				"styl",
+				"list-style"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"N",
+				"NAV	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/wbSite/index.html",
+		"/C/wamp/www/projet/index.html",
+		"/D/Downloads/jquery-3.1.1.min.js",
+		"/C/Users/William/Desktop/exos algo",
+		"/C/wamp/www/mySite/app/index.html",
+		"/C/wamp/www/mySite/app/scripts/controllers/menu.js",
+		"/C/wamp/www/mySite/app/scripts/controllers/main.js",
+		"/C/wamp/www/mySite/bower.json",
+		"/C/wamp/www/mySite/package.json",
+		"/C/wamp/www/WB/angular-starter/package.json",
+		"/C/wamp/www/siteWill/index.html",
+		"/C/wamp/www/mywebsite/index.html",
+		"/C/wamp/www/mywebsite/app/app.module.ts",
+		"/C/wamp/www/mywebsite/tsconfig.json",
+		"/C/wamp/www/mywebsite/package.json",
+		"/C/wamp/www/mywebsite/app/app.component.ts",
+		"/C/wamp/www/mySite/Gruntfile.js",
+		"/C/wamp/www/simple-angular2-portfolio-site-master/README.md",
+		"/C/Users/William/Desktop/bbb.txt",
+		"/C/Users/William/Desktop/aaa.txt",
+		"/C/wamp/www/mywebsite/app/main.ts",
+		"/C/wamp/www/mywebsite/app/app.main.js",
+		"/C/wamp/www/mywebsite/app/app.main.ts",
+		"/C/wamp/www/mywebsite/app/style.css",
+		"/C/wamp/www/mywebsite/typings.json",
+		"/C/wamp/www/mywebsite/systemjs.config.js",
+		"/C/wamp/www/training2/style.css",
+		"/C/wamp/www/training2/main.js",
+		"/C/wamp/www/training2/index.html",
+		"/C/wamp/www/training/style.css",
+		"/C/wamp/www/training/main.js",
+		"/C/wamp/www/training/index.html",
+		"/C/wamp/www/siteWB/index.html",
+		"/C/wamp/www/siteWB/js/main.js",
+		"/C/Mes Sites Web/test/www.monolab.cl/index.html",
+		"/C/Mes Sites Web/test/www.monolab.cl/index_edgePreload.js",
+		"/C/Users/William/Desktop/Monolab.html",
+		"/C/Mes Sites Web/test/index.html",
+		"/C/Users/William/Desktop/Monolab2.html",
+		"/C/wamp/www/siteWill/about.html",
+		"/C/Users/William/Desktop/hitema/intro-javascript/chapitre1/js/cours.js",
+		"/C/Users/William/Desktop/hitema/intro-javascript/chapitre1/js/calculette.js",
+		"/C/Users/William/Desktop/hitema/intro-javascript/chapitre1/html/cours.html",
+		"/C/Users/William/Desktop/hitema/intro-javascript/chapitre1/html/calculette.html",
+		"/C/wamp/www/siteHelma/index.php",
+		"/C/Users/William/Desktop/Badoo — Rencontres.html",
+		"/C/wamp/www/siteHelma/css/style.css",
+		"/C/Users/William/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/William/AppData/Local/Temp/fz3temp-1/tablet.css",
+		"/C/Users/William/AppData/Local/Temp/fz3temp-1/mobile.css",
+		"/C/wamp/www/flexboxgrid-6.3.0/css/flexboxgrid.css",
+		"/C/wamp/www/flexboxgrid-6.3.0/css/index.css",
+		"/C/wamp/www/flexboxgrid-6.3.0/index.html",
+		"/C/wamp/www/dojo/includes/nav.php",
+		"/C/wamp/www/dojo/includes/footer.php",
+		"/C/wamp/www/dojo/includes/header.php",
+		"/C/wamp/www/dojo/css/style.css",
+		"/C/wamp/www/dojo/includes/accueil.php",
+		"/C/wamp/www/dojo/index.php",
+		"/C/wamp/www/Warum/includes/footer.php",
+		"/C/wamp/www/dojo/includes/contact.php",
+		"/C/wamp/www/dojo/includes/horaires.php",
+		"/C/wamp/www/dojo/includes/medias.php",
+		"/C/wamp/www/dojo/includes/evenements.php",
+		"/C/wamp/www/dojo/includes/ledojo.php",
+		"/C/wamp/www/Warum/includes/accueil.php",
+		"/C/wamp/www/Warum/index.php",
+		"/C/wamp/www/Warum/includes/professeur.php",
+		"/C/wamp/www/Warum/includes/menu.php",
+		"/C/wamp/www/Warum/includes/header.php",
+		"/C/wamp/www/Warum/includes/headerAccueil.php",
+		"/C/wamp/www/Warum/includes/presentation.php",
+		"/C/wamp/www/Warum/css/style.css",
+		"/C/wamp/www/Warum/includes/contact.php",
+		"/C/wamp/www/Warum/includes/realisations.php",
+		"/C/wamp/www/Warum/includes/coachvocal.php",
+		"/C/wamp/www/Warum/accueil.php",
+		"/C/wamp/www/Warum/presentation.php",
+		"/C/wamp/www/Warum/header.php",
+		"/C/wamp/www/Warum/footer.php",
+		"/C/wamp/www/Warum/footerAccueil.php",
+		"/C/wamp/www/Warum/includes/footerAccueil.php",
+		"/C/wamp/www/Warum/menu.php",
+		"/C/wamp/www/Warum/CoachingVocal.php",
+		"/C/wamp/www/Warum/Bio.php",
+		"/C/Users/William/Desktop/menus-avec-transition/css/style.css",
+		"/C/Users/William/Desktop/williamBlochExo/index.html",
+		"/C/Users/William/Desktop/williamBlochExo/css/style.css",
+		"/C/Users/William/AppData/Local/Temp/Rar$EXa0.234/williamBlochExo/index.html",
+		"/C/Users/William/Desktop/williamBlochExo/test.html",
+		"/C/Users/William/Desktop/williamBlochExo/css/index.html",
+		"/C/Users/William/Desktop/williamBlochExo/images/index.html",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/js/cours.js",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/html/cours.html",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/js/presentation.js",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/js/calculette.js",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/html/calculette.html",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/html/presentation.html",
+		"/C/Users/William/Desktop/intro-javascript/chapitre1/js/cours.html",
+		"/C/Users/William/Desktop/testjavas.html",
+		"/C/Users/William/Desktop/testJS/index.html",
+		"/C/Users/William/Desktop/testJS/script.js",
+		"/C/Users/William/Desktop/hitema/OC_training/Apertura.html",
+		"/C/Users/William/Desktop/hitema/code_training/page1.html",
+		"/C/Users/William/Desktop/hitema/code_training/test.html",
+		"/C/wamp/www/Warum/styleaccueil.css",
+		"/C/wamp/www/Warum/style.css",
+		"/C/wamp/www/Warum/Footer.php",
+		"/C/wamp/www/Warum/Menu.php",
+		"/C/wamp/www/Warum/CreationDeSpectacles.php",
+		"/C/wamp/www/Warum/ProfesseurDeChant.php",
+		"/C/wamp/www/Warum/Home.php",
+		"/C/wamp/www/Warum/Contact.php",
+		"/C/wamp/www/Warum/stylePDC.css",
+		"/C/wamp/www/tests/testphp.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"\\x",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"%"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
