@@ -19,14 +19,14 @@ app.config(['$routeProvider', function ($routeProvider) {
     .when("/contact/success", {templateUrl: "partials/contact_success.html", controller: "PageCtrl"})
 
 
-    //PROJECTS 
+    //PROJECTS
     .when('/projectDetail/:link', {
         templateUrl: function(params) {
             if (params.link != "") {
                 return 'partials/'+params.link+'.html';
             }
 
-            return 'partials/404.html';   
+            return 'partials/404.html';
         },
        controller: 'ProjectDetailCtrl'
     })
@@ -42,7 +42,7 @@ app.controller("ArticleCtrl", function($scope, $http) {
 
       $http({
         method: 'GET',
-        url: 'http://localhost/ERP-Apparel-Back/web/app_dev.php/articles/website/4'
+        url: 'http://localhost/ERP-Apparel-Back/web/app_dev.php/articles/website/2'
       }).then(function successCallback(response) {
           // this callback will be called asynchronously
           // when the response is available
@@ -72,13 +72,9 @@ app.controller('HouseCtrl', function ($scope) {
  * Controls Home Page.
  */
 app.controller('HomeCtrl', function (/* $scope, $location, $http */) {
-    
+
 });
 
 app.controller('PageCtrl', function (/* $scope, $location, $http */) {
     console.log('Page Generale');
 });
-
-
-
-
